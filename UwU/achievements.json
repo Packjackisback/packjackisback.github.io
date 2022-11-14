@@ -1,0 +1,222 @@
+[
+  {
+    "name": "UwU",
+    "description": "Whawt's dis?",
+    "hidden": false,
+    "icon": "ovo.png",
+    "callback": "Skins > Gold",
+    "params": "5,achievements,0",
+    "divider": ",",
+    "type": "n,s,n"
+  },
+  {
+    "name": "Hiwtting de head",
+    "description": "Stop iwt pwease",
+    "hidden": true,
+    "icon": "ovo2.png",
+    "callback": "Skins > Gold",
+    "params": "10,achievements,1",
+    "divider": ",",
+    "type": "n,s,n"
+  },
+  {
+    "name": "Huwting de head",
+    "description": "-_-",
+    "hidden": true,
+    "icon": "ovo3.png",
+    "callback": "Skins > Gold",
+    "params": "20,achievements,2",
+    "divider": ",",
+    "type": "n,s,n"
+  },
+  {
+    "name": "tuwtowiaws",
+    "description": "Finnish de tuwtowiaw secion",
+    "hidden": false,
+    "icon": "tutorials.png",
+    "callback": "Skins > Gold",
+    "params": "5,achievements,3",
+    "divider": ",",
+    "type": "n,s,n"
+  },
+  {
+    "name": "Gewtting Sewious",
+    "description": "Finishh de gewtting sewious secion",
+    "hidden": false,
+    "icon": "gettingserious.png",
+    "callback": "Skins > Gold",
+    "params": "5,achievements,3",
+    "divider": ",",
+    "type": "n,s,n"
+  },
+  {
+    "name": "Highew Owdew",
+    "description": "Finnish da highew owdew sacion",
+    "hidden": false,
+    "icon": "higherorder.png",
+    "callback": "Skins > Unlock",
+    "params": "4",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Mehkanics",
+    "description": "Fwinish de mehkanics secsion",
+    "hidden": false,
+    "icon": "mechanics.png",
+    "callback": "Skins > Unlock",
+    "params": "1",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "UwU Space Pwogwam",
+    "description": "Fwinishh da UwU Space Pwogwam section",
+    "hidden": false,
+    "icon": "ovospaceprogram.png",
+    "callback": "Skins > Unlock",
+    "params": "8",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "A mysticaw jouwney",
+    "description": "Finish de Jouwney dwough de powtaw section",
+    "hidden": false,
+    "icon": "jttp.png",
+    "callback": "Skins > Unlock",
+    "params": "14",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Communiwty Wowk",
+    "description": "Finish de Communiwty wevews",
+    "hidden": false,
+    "icon": "community.png",
+    "callback": "Skins > Unlock",
+    "params": "15",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Puwified",
+    "description": "Finish evewy wevew",
+    "hidden": false,
+    "icon": "purified.png",
+    "callback": "Skins > Unlock",
+    "params": "11",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Koiwns!",
+    "description": "Cowwect a koiwn",
+    "hidden": false,
+    "icon": "coin.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": ""
+  },
+  {
+    "name": "Koiwn endusiast",
+    "description": "Collect 5 koiwns",
+    "hidden": false,
+    "icon": "coin5.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": ""
+  },
+  {
+    "name": "Kwoin connoisseuw",
+    "description": "cowwect ten kwoins",
+    "hidden": false,
+    "icon": "coin10.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": ""
+  },
+  {
+    "name": "Kwoin Huntew",
+    "description": "Cowwect 30 kwoins",
+    "hidden": false,
+    "icon": "coin30.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Coin god",
+    "description": "Collect 40 coins",
+    "hidden": false,
+    "icon": "coin40.png",
+    "callback": "Skins > Unlock",
+    "params": "7",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "secwewt kwoin",
+    "description": "Cowwect de secwewt kwoin",
+    "hidden": true,
+    "icon": "coinsecret.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "wunnew",
+    "description": "Fwinish UwU in wess dan 30 minuwtes",
+    "hidden": false,
+    "icon": "runner.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "speedwunnew",
+"description": "Finish UwU in wess den 20 minuwtes",
+    "hidden": false,
+    "icon": "speedrunner.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "vewociwty mastew",
+    "description": "Finish UwU in wess dan 15 minuwtes",
+    "hidden": false,
+    "icon": "velocity.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "top chawts",
+    "description": "Finish UwU in wess den 12 minuwtes",
+    "hidden": false,
+    "icon": "topcharts.png",
+    "callback": "Skins > Unlock",
+    "params": "13",
+    "divider": ",",
+    "type": "n"
+  },
+  {
+    "name": "Congrats!",
+    "description": "You did it, you made it through this horrible mod. This pained me, and probably you.",
+    "hidden": false,
+    "icon": "lightspeed.png",
+    "callback": "",
+    "params": "",
+    "divider": ",",
+    "type": "n"
+  }
+]

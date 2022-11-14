@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Bwasics",
+    "lang": "basics",
+    "textScale": 1,
+    "levels": [1, 8]
+  },
+  {
+    "name": "Gwettin Sweriwous",
+    "lang": "gettingserious",
+    "textScale": 1,
+    "levels": [9, 16]
+  },
+  {
+    "name": "highew owdew",
+    "lang": "higherorder",
+    "textScale": 1,
+    "levels": [17, 24]
+  },
+  {
+    "name": "Kekwahnics",
+    "lang": "mechanicis",
+    "textScale": 1,
+    "levels": [25, 32]
+  },
+  {
+    "name": "UwU Spawse Pwogram",
+    "lang": "ovospaceprogram",
+    "textScale": 1,
+    "levels": [33, 40]
+  },
+  {
+    "name": "Jouwney thwough de powtaw",
+    "lang": "jttp",
+    "textScale": 0.8,
+    "levels": [41, 48]
+  },
+  {
+    "name": "Communism lewels",
+    "lang": "community",
+    "textScale": 1,
+    "levels": [49, 52]
+  }
+]
