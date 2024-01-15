@@ -1,30 +1,30 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: packjack
+description: packjack's personal site, contains links to media, blog, etc..
+taglong: packjack's personal webpage
+tagshort: My Site
+url: packjackisback.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/Packjackisback/packjackisback.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: packjack
+  email: packjackisback@gmail.com
+photo: https://avatars.githubusercontent.com/u/83289186?v=4
 
 # social media links
 
 social:
   facebook: username
-  github: username
+  github: packjackisback
   instagram: username
-  linkedin: username
+  linkedin: packjack ⠀
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: packjackbball
 
 # build settings
 
