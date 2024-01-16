@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A call to action
-lead: A very bad idea.
+lead: or how my school did a stupid.
 ---
 
 My school district has decided it would be a good idea to ban students' personal devices, ignoring the obvious *very* negative repercussions. 
