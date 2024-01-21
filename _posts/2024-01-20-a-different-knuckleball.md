@@ -16,11 +16,11 @@ Usually, pitchers who throw a knuckleball will push the ball off of their finger
 I dug through some blog posts, and read through a lot of baseball reference pages, until I happened upon Freddie Fitzsimmons. He also was said to use his knuckles on the ball, and his knuckleball moved similarly to Jesse's, often being called a kuckle curve. Pretty cool!
 
 Both of these pitchers had very successful careers once they picked up this Knuckleballesque pitch, with Jesse's 210–158 win–loss record, and Freddie's 217–146 record. 
-To understand why this pitch is never thrown anymore, you have to understand the state of the game when this was thrown. Changeups and splitters hadn't been popularlized yet, with any pitch that wasn't a fastball or curve being lumpped under monkier of "slowball". While the "knuckleball" Jesse and Freddie threw was certainly effective, it was easier to teach and throw the changeups and splitters that were later common. As such, knuckleball usage greatly decreased, with the few specialists still throwing it opting to go for the more erattic version, as it could by itself be a viable pitch. 
+To understand why this pitch is never thrown anymore, you have to understand the state of the game when this was thrown. Changeups and splitters hadn't been popularlized yet, with any pitch that wasn't a fastball or curve being lumped under monkier of "slowball". While the "knuckleball" Jesse and Freddie threw was certainly effective, it was easier to teach and throw the changeups and splitters that were later common. As such, knuckleball usage greatly decreased, with the few specialists still throwing it opting to go for the more erattic version, as it could by itself be a viable pitch. 
 
 
 
-I've experimented with throwing it like that, with pretty good results. It moves a rediculous ammount, and has some fairly decent speed behind it. To be honest, I could see this pitch being thrown someday.
+I've experimented with throwing it like that, with pretty good results. It moves a rediculous amount, and has some fairly decent speed behind it. To be honest, I could see this pitch being thrown someday.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLV4B6CSDxaUm0DlIacJiaic8qjlfUf5sq" frameborder="0" allowfullscreen></iframe>
 
