@@ -31,3 +31,5 @@ Eventually, I could take no more. I shrank the partition, and created an Arch In
 Installing Linux has been good for my mental health. I don't know how to explain it perfectly, but using Windows was a grainy filter on top of my life. I wouldn't go 30 minutes with struggling through the 40% cpu usage from windows, and it seems like a little thing, but the lag just infuriated me. I would boot up my laptop for a class activity, and it would just crash. In comparison, I am legitimately happy while using Linux, choosing what my hardware does. I know what every byte going out of my system is, and I know whatever is running at any given time. I had been living in a cloud of hopelessness, but Linux was truly a source of hope and joy. I know it sounds corny, but I would literally go to sleep, thinking about what I would code or configure on my system.
 
 Again, I know it's a cliche, but Linux set me free.
+
+(I deleted my Windows install, I couldn't do it anymore)
