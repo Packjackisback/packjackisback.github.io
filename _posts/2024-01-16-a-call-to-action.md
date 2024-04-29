@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A call to action
+title: My school district
 lead: 1:1 sucks.
 ---
 
