@@ -1,6 +1,6 @@
 # site settings
 
-title: packjack
+title: /home/packjack
 description: packjack's personal site, contains links to media, blog, etc..
 taglong: packjack's personal webpage
 tagshort: My Site
@@ -24,7 +24,7 @@ social:
   instagram: username
   linkedin: packjack ⠀
   stackoverflow: 0000000/username
-  twitter: packjackbball
+  twitter: JacksonMbball
 
 # build settings
 
