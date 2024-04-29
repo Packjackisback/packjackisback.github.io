@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A different knuckleball.
-lead: Yay a baseball post
+title: A fast knuckleball
+lead: The rare baseball post
 ---
 
 Hey, quick post today, but I just wanted to talk about the rare type of knuckleball. I was looking through some old [Sabr articles](https://sabr.org/bioproj/person/jesse-haines/) when I stumbled upon Jesse Haine's page.
