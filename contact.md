@@ -17,4 +17,6 @@ Class of 2027
 Hopefully I'll have updated this recently, but the last update was from June 20th, 2024.
 Both the 2 APs and the 1450 sat were in freshman year, and my GPAs were hurt from Junior High classes. 
 
+Also, I am at 80+ mph with good secondary pitches.
+
 :)
