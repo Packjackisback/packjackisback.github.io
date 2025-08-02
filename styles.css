@@ -1,0 +1,60 @@
+body {
+    background-color: #1e1e1e;
+    color: #c7c7c7;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+}
+
+.terminal {
+    background-color: #2d2d2d;
+    border-radius: 5px;
+}
+
+
+.buttons {
+    display: flex;
+    gap: 5px;
+}
+
+.buttons span {
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.buttons .red {
+    background-color: #ff5f56;
+}
+
+.buttons .yellow {
+    background-color: #ffbd2e;
+}
+
+.buttons .green {
+    background-color: #27c93f;
+}
+
+.terminal-title {
+    flex-grow: 1;
+    text-align: center;
+    color: #c7c7c7;
+}
+
+.terminal-body {
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.command {
+    margin: 0;
+}
+
+.command-section {
+    margin-top: 20px;
+}
+
+.highlight {
+    color: #00ff00;
+}
